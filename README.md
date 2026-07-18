@@ -12,13 +12,9 @@ GitHub Pagesを `main` ブランチから公開すると、以下のURLをApp St
 - Commerce disclosure: `https://ebi-oishii.github.io/national-team-site/commerce/`
 - Disclaimer: `https://ebi-oishii.github.io/national-team-site/disclaimer/`
 
-## リリース前に必ず差し替える項目
+## サポート窓口
 
-- `リリース前にアプリ専用メールアドレスを掲載`
-  - `support.md`
-  - `privacy.md`
-  - `terms.md`
-  - `commerce.md`
+- `ebi.apps.support@gmail.com`
 
 ## GitHub Pages設定
 

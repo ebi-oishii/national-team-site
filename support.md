@@ -9,7 +9,7 @@ permalink: /support/
 
 「サッカー代表監督シミュレーター」に関するお問い合わせは、以下の窓口までご連絡ください。
 
-- メール: <span class="todo">リリース前にアプリ専用メールアドレスを掲載</span>
+- メール: [ebi.apps.support@gmail.com](mailto:ebi.apps.support@gmail.com)
 
 お問い合わせの際は、以下の情報を含めていただくと確認がスムーズです。
 

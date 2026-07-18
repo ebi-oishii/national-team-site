@@ -107,7 +107,7 @@ permalink: /terms/
 
 本規約に関するお問い合わせは、以下までご連絡ください。
 
-- メール: <span class="todo">リリース前にアプリ専用メールアドレスを掲載</span>
+- メール: [ebi.apps.support@gmail.com](mailto:ebi.apps.support@gmail.com)
 
 運営者の氏名・住所等については、[プライバシーポリシー]({{ '/privacy/' | relative_url }}) 第13条をご参照ください。
 
