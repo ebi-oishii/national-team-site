@@ -1,0 +1,7 @@
+title: サッカー代表監督シミュレーター
+description: サッカー代表監督シミュレーターの公式サポート・法務情報
+lang: ja-JP
+timezone: Asia/Tokyo
+permalink: pretty
+exclude:
+  - README.md
