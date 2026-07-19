@@ -12,6 +12,16 @@ GitHub Pagesを `main` ブランチから公開すると、以下のURLをApp St
 - Commerce disclosure: `https://ebi-oishii.github.io/national-team-site/commerce/`
 - Disclaimer: `https://ebi-oishii.github.io/national-team-site/disclaimer/`
 
+## app-ads.txt
+
+AdMob用の `app-ads.txt` を配置しています。
+
+```txt
+google.com, pub-9837264864279123, DIRECT, f08c47fec0942fa0
+```
+
+GitHub PagesのプロジェクトURLでは `https://ebi-oishii.github.io/national-team-site/app-ads.txt` に公開されます。AdMobの検出はデベロッパーWebサイトのルート `/app-ads.txt` を参照するため、公開前にカスタムドメインかユーザーサイト直下での公開を確認してください。
+
 ## サポート窓口
 
 - `ebi.apps.support@gmail.com`
